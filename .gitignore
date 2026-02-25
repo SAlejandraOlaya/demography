@@ -1,0 +1,22 @@
+# Variables de entorno (contienen secretos)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build / logs
+dist/
+*.log
+
+node_modules/
